@@ -6,7 +6,7 @@
 MY_STATUS_TITLE="Status Page"
 
 # Link for the homepage button
-MY_HOMEPAGE_URL="https://github.com/Cyclenerd/static_status"
+MY_HOMEPAGE_URL="https://github.com/dscabsa/static_status"
 
 # Text for the homepage button
 MY_HOMEPAGE_TITLE="Homepage"
